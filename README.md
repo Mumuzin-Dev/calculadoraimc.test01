@@ -1,5 +1,5 @@
 # Calculadora IMC
-Esse projeto é um aplicativo Android nativo desenvolvido com a lingagem de programação Kotlin, tem com principal funcionlidade, fazer o cálculo do IMC e mostrar o resultado na tela seguinte.
+This project is a native Android application developed with the Kotlin programming language, its main functionality is to calculate the BMI and display the result on the next screen.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
