@@ -1,3 +1,10 @@
 <resources>
+    <string name="btn_calcular">Calcular</string>
+    <string name="title_sub">Preencha todos os campos para calcular seu IMC</string>
     <string name="app_name">calculadoraimc</string>
+    <string name="title01">Calcular IMC</string>
+    <string name="hint01">"Digite seu peso ex: 70.200</string>
+    <string name="hint02">Digite sua altura ex: 1.70</string>
+    <string name="contentDescription">todo</string>
+    <string name="edt_peso"></string>
 </resources>
